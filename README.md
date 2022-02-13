@@ -3,7 +3,7 @@
 How to create a Jekyll theme on macOS in a few steps:
 - **[Jekyll documendation](https://jekyllrb.com/docs/installation/macos/)** </br>
 
-# 1. Install xcode
+## 1. Install xcode
 xcode-select –install 
 
 # 2. Install Homebrew
