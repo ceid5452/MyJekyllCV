@@ -34,8 +34,8 @@ brew install gh
 
 ### 11. Add your project on github
 - **[full documendation](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line)** </br>
-git init -b main
-git add . && git commit -m "initial commit"
-gh repo create --source=. --public --push
+git init -b main</br>
+git add . && git commit -m "initial commit"</br>
+gh repo create --source=. --public --push</br>
 
 
