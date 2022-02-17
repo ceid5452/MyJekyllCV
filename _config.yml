@@ -23,7 +23,7 @@ email: dionusia.filiopoulou@gmail.com
 description: 
  Hi! My name is Dionysia and this is my CV written with Jekyll!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://myjekyllcv.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: '-'
 github_username:  dFiliopoulou
 
