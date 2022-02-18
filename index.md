@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-output: pdf_document
+
 ---
 
 <h2>A.M. 235452</h2>
